@@ -1,4 +1,6 @@
 // Step 1: Import React, and Component from react.
+import React from "react";
+import { Component } from "react";
 // Step 2: Import render from react-dom
 // Step 3: Import MoviesList from MoviesList
 
