@@ -14,7 +14,7 @@ class App extends Component {
     // Step 7: Inside the constructor function, create a state on this, and set it to an object.
     this.state = {
       // Step 8: Inside the object, set a key to movies, and the value to an array of movies
-      movies: ["movie1", "movie2", "movie3"]
+      movies: ["Superman", "Batman", "Spiderman"]
     };
   }
   // Step 9: Write a render function.
